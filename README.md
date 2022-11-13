@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cazolion
 - 👀 I’m interested in problem solving, making fun things, and dogs
-- 🌱 I’m currently learning <s>Javascript</s> Ruby and how to use a sewing machine
+- 🌱 I’m currently learning <s>Javascript</s> Ruby, doodling, and how to use a sewing machine
 
 
 <!---
